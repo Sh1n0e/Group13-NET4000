@@ -1,9 +1,5 @@
 # Group13 NET4000
-
-## Team Members
-
 - Shawn Rae
-- Mersha Yirga 
 
 
 ## Project 
